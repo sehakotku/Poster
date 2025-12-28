@@ -1,2 +1,3 @@
 # Poster
-data visualization poster 
+IMDb Top 250 Movies Analysis
+Data visualization poster 
