@@ -2,7 +2,7 @@
 # IMDb Budget vs Rating Analysis
 
 
-## Project Description (Proje Açıklaması)
+## Project Description 
 This project analyzes the relationship between movie budgets and IMDb ratings...
 
 
